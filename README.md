@@ -1,0 +1,1 @@
+# awesome-japan-tech-blogs
