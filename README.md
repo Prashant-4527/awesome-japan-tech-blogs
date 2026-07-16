@@ -477,6 +477,16 @@ To suggest a new blog, [open an issue](https://github.com/Prashant-4527/awesome-
 
 ---
 
+## 💡 Related Lists
+
+If you like this format, also check out:
+
+- [ml-engineering-blogs](https://github.com/primaprashant/ml-engineering-blogs) by [@primaprashant](https://github.com/primaprashant) — curated ML engineering blogs (global, not Japan-specific)
+- [llms-in-production](https://github.com/primaprashant/llms-in-production) by [@primaprashant](https://github.com/primaprashant) — real-world LLM production case studies
+
+This list follows the same spirit, scoped specifically to Japan's tech ecosystem.
+
+---
 <div align="center">
 
 Maintained with ❤️ by [Prashant](https://github.com/Prashant-4527)  
